@@ -3,9 +3,7 @@ name: Communication among team members
 area: Agile
 description:	
 Product development is a team work, and for that, it is crucial that team members communicate well with each other. Teams with good communication interact well in a range of verbal or written contexts. This includes face-to-face meetings (in person or remotely), chats on Slack channels, Confluence docs, Asana or Jira tickets, and also pull requests and design specs.
-references:
-  - a
-  - b
+references: [Agile Manifesto]([https://google](https://agilemanifesto.org/), [Blog post](v)
 label: How do you evaluate your team’s communication with each other?
 ---
 
