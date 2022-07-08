@@ -7,8 +7,12 @@ references: https://agilemanifesto.org/, https://fleep.io/blog/how-to-improve-te
 
 # How do you evaluate your team’s communication with each other?
 
-[ ] (Weak) Communication is an issue for our team. Messages are often confusing and team members don’t have a schedule to communicate.
-[ ] (Low) Communication needs improving. Messages often lack context and team members only report progress or blockers weekly.   
-[ ] (Intermediary) Communication needs improving. Team members report progress or blockers daily, but lack context.   
-[ ] (High) Communication is good. Messages have context and team members report progress or blockers daily.
-[ ] (Elite) Communication is fluent. Messages have context and team members report progress or blockers daily. Our team is objective, but empathic. Learnings are highlighted and shared.
+- [ ] (Weak) Communication is an issue for our team. Messages are often confusing and team members don’t have a schedule to communicate.
+
+- [ ] (Low) Communication needs improving. Messages often lack context and team members only report progress or blockers weekly.
+
+- [ ] (Intermediary) Communication needs improving. Team members report progress or blockers daily, but lack context.
+
+- [ ] (High) Communication is good. Messages have context and team members report progress or blockers daily.
+
+- [ ] (Elite) Communication is fluent. Messages have context and team members report progress or blockers daily. Our team is objective, but empathic. Learnings are highlighted and shared.
