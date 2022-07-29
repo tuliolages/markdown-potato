@@ -1,5 +1,4 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique velit sed enim fermentum malesuada. Vestibulum efficitur sodales nulla, non mattis quam tempus at. Mauris elementum lobortis nisl, id pellentesque eros rhoncus eget. Sed condimentum risus mi, eu semper sem porta ut. Pellentesque tincidunt ipsum nisi, vel venenatis enim tincidunt non. Curabitur tortor leo, tristique sed est ac, volutpat pretium justo. Integer nibh orci, bibendum eu odio non, pellentesque auctor justo. Duis placerat consequat leo. Morbi eget magna rhoncus, molestie turpis quis, facilisis augue. Quisque non odio sit amet elit lobortis luctus vel vel ligula. Suspendisse eget ornare enim. Cras tristique erat ac lectus consequat fringilla. Sed at risus eros. Nulla vestibulum venenatis quam ut sodales.
-
-Proin tincidunt non lectus vel fringilla. Suspendisse potenti. In dignissim, sapien id sagittis faucibus, magna justo facilisis ipsum, eget lobortis felis leo in elit. Pellentesque placerat dolor ac sollicitudin porttitor. Curabitur vel felis id odio convallis varius sit amet sed lectus. Ut ornare, felis in scelerisque mattis, erat orci imperdiet metus, in commodo nunc est sit amet ligula. Maecenas in risus vitae quam malesuada gravida vitae vel arcu. Nunc tempus arcu vel libero molestie fermentum. Sed ac lectus quis augue auctor tincidunt. Fusce tempus vehicula dui, ut congue lectus porta quis.
-
-Aenean sit amet urna eu nulla cursus imperdiet eget ut odio. Praesent elementum diam ac dolor sollicitudin hendrerit. Duis turpis nibh, vulputate vitae aliquam sed, porttitor a quam. Sed bibendum, nunc posuere pharetra tempus, elit ante sodales massa, id molestie nisl eros ut metus. Ut lorem lacus, semper a lorem vel, rutrum posuere sapien. Integer egestas semper orci accumsan tincidunt. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Short summary of the fields
+- design
+- development
+- management
