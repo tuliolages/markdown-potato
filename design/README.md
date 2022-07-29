@@ -1,8 +1,6 @@
 # Design
 
-Probably optional details?
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Designers are an integral part of agile teams, building products and translating business, product management and development requirements into user experiences. In order to achieve high performance and have a positive impact in the product, the design team needs to have solid processes and quality standards for each step of our workflow, from the problem discovery to the UI specs.
 
 List Design areas here?
 
