@@ -9,7 +9,7 @@ references: https://vinta.atlassian.net/wiki/spaces/design/pages/7241943
 
 - [ ] (Weak) There is no Design Interactive Deliverables documented as a repository historic.
 
-- [ ] (Low) No. Designer is the gatekeeper of prototypes, and hasn't made them available for the team.
+- [ ] (Low) No.new level text here.
 
 - [ ] (Intermediary) Yes, prototypes are available, but dispersed across tools and not easily accessible.
 
